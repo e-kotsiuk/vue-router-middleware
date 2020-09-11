@@ -1,0 +1,25 @@
+{
+  "name": "vue-router-middleware",
+  "version": "1.0.0",
+  "description": "vue-router-middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e-kotsiuk/vue-router-middleware.git"
+  },
+  "keywords": [
+    "npm",
+    "vue",
+    "router",
+    "middleware"
+  ],
+  "author": "Eduard Kotsiuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/e-kotsiuk/vue-router-middleware/issues"
+  },
+  "homepage": "https://github.com/e-kotsiuk/vue-router-middleware#readme"
+}
