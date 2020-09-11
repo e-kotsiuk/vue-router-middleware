@@ -33,7 +33,7 @@ function mapGuards (guards) {
   })
 }
 
-export default function middleware (...guards) {
+module.exports = function middleware (...guards) {
   if (guards && guards[0] && Array.isArray(guards[0])) {
     guards = guards[0]
   }
